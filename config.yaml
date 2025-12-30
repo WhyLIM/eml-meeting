@@ -1,0 +1,4 @@
+input_dir: "messages_package"
+output_file: "output/result.xlsx"
+api_provider: "zai-plan"
+model: glm-4.5
